@@ -26,7 +26,6 @@ jobs:
         run: hugo --minify
 
       - name: Deploy to server
-        uses: easingthemes/ssh-deploy@main
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
           ARGS: "-rltgoDzvO"
@@ -34,3 +33,4 @@ jobs:
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           REMOTE_USER: ${{ secrets.REMOTE_USER }}
           TARGET: ${{ secrets.REMOTE_TARGET }}
+        uses: easingthemes/ssh-deploy@main
