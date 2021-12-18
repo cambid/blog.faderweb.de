@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
+    environment: production
     steps:
       - uses: actions/checkout@v2
         with:
