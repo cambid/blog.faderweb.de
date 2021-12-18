@@ -1,0 +1,35 @@
+---
+baseURL: "https://blog.faderweb.de/"
+languageCode: "de-DE"
+title: "Blog von Jan Fader"
+theme: "anubis"
+paginate: 10
+enableRobotsTXT: true
+
+menu:
+  main:
+  - identifier: archive
+    name: Archive
+    title: Archive
+    url: /posts/
+    weight: 0
+
+params:
+  author: "Jan Fader"
+  email: blog@faderweb.de
+  avatar: "/images/fader-jan.jpg"
+  description: "Blog von Jan Fader"
+  dateFormat: "2006-01-02"
+  paginationSinglePost: true
+  style: dark
+  readMore: true
+  disableSummary: false
+  social:
+  - id: www
+    url: "https://www.faderweb.de"
+  - id: mastodon
+    url: "https://chaos.social/@cambid83"
+  - id: twitter
+    name: cambid83
+  - id: github
+    name: cambid
