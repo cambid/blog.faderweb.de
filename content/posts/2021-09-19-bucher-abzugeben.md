@@ -3,8 +3,9 @@
 date: 2021-09-19 18:12:19+00:00
 draft: false
 title: Bücher abzugeben 09/2021
-
 url: /2021/09/19/bucher-abzugeben/
+categories:
+- Bücher
 ---
 
 Ich habe mein Bücherregal aufgeräumt und folgende Titel aussortiert. Die Bücher
