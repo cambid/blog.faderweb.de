@@ -27,11 +27,11 @@ jobs:
         run: hugo --minify
 
       - name: Deploy to server
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-          ARGS: "-rltgoDzvO"
-          SOURCE: "public/"
-          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-          REMOTE_USER: ${{ secrets.REMOTE_USER }}
-          TARGET: ${{ secrets.REMOTE_TARGET }}
-        uses: easingthemes/ssh-deploy@main
+        uses: kostya-ten/ssh-server-deploy@v4
+        with:
+          host: ${{ secrets.REMOTE_HOST }}
+          port: 22
+          username: ${{ secrets.REMOTE_USER }}
+          private_key: ${{ secrets.SSH_PRIVATE_KEY }}
+          scp_source: "public/*"
+          scp_target: ${{ secrets.REMOTE_TARGET }}
