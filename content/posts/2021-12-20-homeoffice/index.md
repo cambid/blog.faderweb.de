@@ -9,7 +9,7 @@ title: Home Office Workplace
 
 Als Stehtisch ist ein Lista Office Extend mit schwarzer Tischplatte und
 schwarzem Gestell im Einsatz und zum Sitzen habe ich bereits seit einem
-Jahrzeit einen Swopper auf Rollen im Einsatz. Der vermeidet super meine
+Jahrzehnt einen Swopper auf Rollen im Einsatz. Der vermeidet super meine
 Rückenschmerzen. Vorsicht: Die ersten zwei Wochen bekommt man davon gerne mal
 Muskelkater.
 
