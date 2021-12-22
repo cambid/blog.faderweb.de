@@ -33,3 +33,15 @@ params:
     name: cambid83
   - id: github
     name: cambid
+  isso:
+    enabled: true
+    data: "https://comments.faderweb.de/"
+    jsLocation: "https://comments.faderweb.de/js/embed.min.js"
+    css: true
+    lang: "de"
+    replyToSelf: true
+    requireAuthor: true
+    requireEmail: true
+    id: "thread-id"
+    avatar: true
+    avatar-bg: "#f0f0f0"
