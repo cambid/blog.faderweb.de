@@ -41,3 +41,4 @@ params:
     replyToSelf: true
     requireAuthor: true
     requireEmail: true
+    feed: true
