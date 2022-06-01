@@ -27,7 +27,7 @@ folgt ein kleiner Bericht über das derzeitige Setup.
 
 - [Hugo](https://gohugo.io/) als Static-Site-Generator
 - Theme [Anubis](https://github.com/mitrichius/hugo-theme-anubis)
-- Hosting des Blogs in meinem Webspace bei [Cyon](www.cyon.ch)
+- Hosting des Blogs in meinem Webspace bei [Cyon](https://www.cyon.ch)
 - Quellcodeverwaltung im Repo bei Github
 - automatisches Building per Github Actions
 - vim als Editor \o/
