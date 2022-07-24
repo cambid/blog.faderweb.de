@@ -1,7 +1,7 @@
 ---
 title: "Kommunikation"
 date: 2022-07-24T09:21:28+02:00
-draft: true
+draft: false
 ---
 
 Heute geht es um die von mir bevorzugten Kommunikationsmittel und warum ich das
