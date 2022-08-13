@@ -24,6 +24,7 @@ params:
   style: dark
   readMore: true
   disableSummary: false
+  rssAsSocialIcon: true
   social:
   - id: www
     url: "https://www.faderweb.de"
