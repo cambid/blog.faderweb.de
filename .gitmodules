@@ -1,3 +1,4 @@
 [submodule "themes/anubis"]
 	path = themes/anubis
-	url = https://github.com/mitrichius/hugo-theme-anubis.git
+	url = https://github.com/cambid/hugo-theme-anubis.git
+	branch = umami
