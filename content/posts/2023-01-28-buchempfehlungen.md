@@ -1,10 +1,8 @@
 ---
-title: "Buchempfehlungen"
+title: "Buchempfehlungen Januar 2023"
 date: 2023-01-28T16:54:26+02:00
-draft: true
+draft: false
 ---
-
-# Buchempfehlungen
 
 Heute gibt es mal ein paar Buchempfehlungen von mir:
 
