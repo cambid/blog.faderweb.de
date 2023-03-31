@@ -1,6 +1,6 @@
 ---
 title: "Hypetrain Bingo"
-date: 2023-03-31T23:04:26+01:00
+date: 2023-03-31T22:04:26+01:00
 draft: false
 tags:
  - rant
