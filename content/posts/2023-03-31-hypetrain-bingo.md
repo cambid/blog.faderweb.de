@@ -7,8 +7,8 @@ tags:
  - chatgpt
 ---
 
-Können wir alle mal bitte alle Technik und neue Dinge richtig zu beurteilen
-bevor es zu neuen Lösung für alles gemacht wird. Meine Bingo-Karte ist echt
+Können wir alle mal bitte anfange Technik und neue Dinge richtig zu beurteilen
+bevor es zur neuen Lösung für alles gemacht wird. Meine Bingo-Karte ist echt
 voll.
 
 Erst waren es Chatbots, dann Blockchain (mit allen Heilsversprechen von
@@ -48,5 +48,5 @@ Und vermutlich noch ganz viele andere Fragen die erst später aufkommen oder mir
 einfach noch nicht eingefallen sind.
 
 Ich plädiere daher erstmal für einen nüchternen und kritischen Umgang mit neuen
-Technologien bevor man alles darauf umstellt. Nicht alles neue ist unbedingt
+Technologien bevor man alles darauf umstellt. Nicht alles Neue ist unbedingt
 gut und auch nicht zwingend besser als alles vorher da gewesene.
