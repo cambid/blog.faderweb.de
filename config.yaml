@@ -49,3 +49,7 @@ params:
     requireAuthor: true
     requireEmail: true
     feed: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
