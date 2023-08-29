@@ -1,6 +1,6 @@
 ---
 title: "Vim navigieren"
-date: 2023-08-28T20:03:37+02:00
+date: 2023-08-29T06:49:37+02:00
 draft: false
 tags:
 - vim
