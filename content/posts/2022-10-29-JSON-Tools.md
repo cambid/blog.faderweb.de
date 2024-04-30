@@ -53,7 +53,7 @@ jq erlaubt das Filtern und Bearbeiten, aber die Syntax finde ich zu
 kompliziert.
 
 Daher kommt [gron](https://github.com/tomnomnom/gron) zum Einsatz. Mit diesem
-kann klopft das JSON flach, so dass es mit üblichen Shell-Tools (z.B. sed, grep
+klopft mensch das JSON flach, so dass es mit üblichen Shell-Tools (z.B. sed, grep
 oder awk) bearbeitbar ist.
 
 Nimmt man das oben mit jo erstellte Beispiel und verarbeitet es mit gron erhält
