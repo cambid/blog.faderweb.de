@@ -30,8 +30,6 @@ params:
     url: "https://www.faderweb.de"
   - id: mastodon
     url: "https://chaos.social/@cambid83"
-  - id: twitter
-    name: cambid83
   - id: github
     name: cambid
   UmamiAnalytics:
