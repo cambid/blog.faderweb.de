@@ -35,7 +35,6 @@ params:
   UmamiAnalytics:
     enabled: true
     dnt: true
-    id: 17efb6d5-7640-4352-b7f4-d10f45c372ea
     datacache: false
     url: "https://statistics.faderweb.de/umami.js"
   isso:
