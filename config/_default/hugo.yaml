@@ -3,8 +3,10 @@ baseURL: "https://blog.faderweb.de/"
 languageCode: "de-DE"
 title: "Blog von Jan Fader"
 theme: "anubis"
-paginate: 10
 enableRobotsTXT: true
+
+pagination:
+  papersize: 10
 
 menu:
   main:
