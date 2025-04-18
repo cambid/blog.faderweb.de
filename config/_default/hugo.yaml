@@ -2,19 +2,33 @@
 baseURL: "https://blog.faderweb.de/"
 languageCode: "de-DE"
 title: "Blog von Jan Fader"
-theme: "anubis"
+theme: "PaperMod"
 enableRobotsTXT: true
 
 pagination:
   papersize: 10
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 menu:
   main:
-  - identifier: archive
-    name: Archive
-    title: Archive
-    url: /posts/
-    weight: 0
+    - identifier: archive
+      name: Archive
+      url: /posts/
+      weight: 0
+    - identifier: search
+      name: Suche
+      url: /search/
+      weight: 10
+    - identifier: rrss
+      name: RSS
+      url: /index.xml
+      weight: 20
+      icon: rss
 
 params:
   author: "Jan Fader"
@@ -26,14 +40,22 @@ params:
   style: dark
   readMore: true
   disableSummary: false
-  rssAsSocialIcon: true
-  social:
-  - id: www
-    url: "https://www.faderweb.de"
-  - id: mastodon
-    url: "https://chaos.social/@cambid83"
-  - id: github
-    name: cambid
+  name: true
+  comments: true
+  showReadingTime: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  homeInfoParams:
+    Title:
+  socialIcons:
+    - name: cv
+      url: "https://www.faderweb.de"
+    - name: mastodon
+      url: "https://chaos.social/@cambid83"
+    - name: github
+      url: "https://github.com/cambid"
+    - name: rss
+      url: "https://blog.faderweb.de/index.xml"
   UmamiAnalytics:
     enabled: true
     dnt: true
