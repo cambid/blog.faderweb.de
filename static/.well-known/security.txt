@@ -1,0 +1,1 @@
+/mnt/DATEN/Eigene.Dateien/DEVELOPMENT/websites/faderweb.de/hugo/static/.well-known/security.txt
