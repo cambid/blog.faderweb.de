@@ -1,6 +1,6 @@
 ---
 baseURL: "https://blog.faderweb.de/"
-languageCode: "de-DE"
+locale: "de-DE"
 title: "Blog von Jan Fader"
 theme: "PaperMod"
 enableRobotsTXT: true
